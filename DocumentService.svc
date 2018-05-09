@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WebStar.Service1" CodeBehind="DocumentService.svc.cs" %>
